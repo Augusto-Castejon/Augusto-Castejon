@@ -1,4 +1,4 @@
-## Oiii eu sou Augusto Castejon, sou estudante e desenvolvedor.
+## Hey! I'm Augusto Castejon, student and developer.
 
 <div align="center">  
  <picture>
